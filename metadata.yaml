@@ -1,5 +1,5 @@
 _repo: Aeneidi_53977
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   translator:
     agent_name: Siitonen, Konstantin
@@ -8,6 +8,9 @@ contributor:
     deathdate: 1925
     gutenberg_agent_id: '48830'
     url: http://www.gutenberg.org/2009/agents/48830
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Virgil
@@ -20,6 +23,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/129
     wikipedia: http://en.wikipedia.org/wiki/Virgil
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/53977#Aeneidi
 gutenberg_issued: '2017-01-16'
 gutenberg_type: Text
 identifiers:
